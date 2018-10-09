@@ -42,6 +42,7 @@
     "@commitlint/config-conventional": "^7.0.1",
     "@leeyeh/jsdoc-rtd": "^1.0.13",
     "@leeyeh/rollup-plugin-node-resolve": "^3.0.0",
+    "@types/node": "~10.9",
     "babel-eslint": "^8.0.0",
     "babel-plugin-external-helpers": "^6.8.0",
     "babel-plugin-istanbul": "^4.1.1",
